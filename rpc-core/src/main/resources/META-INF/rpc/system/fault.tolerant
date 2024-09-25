@@ -1,0 +1,4 @@
+failBack=fault.tolerant.FailBackTolerantStrategy
+failFast=fault.tolerant.FailFastTolerantStrategy
+failOver=fault.tolerant.FailOverTolerantStrategy
+failSafe=fault.tolerant.FailSafeTolerantStrategy

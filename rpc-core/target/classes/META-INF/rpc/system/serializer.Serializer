@@ -1,0 +1,4 @@
+json=serializer.JsonSerializer
+kryo=serializer.KryoSerializer
+jdk=serializer.JdkSerializer
+hessian=serializer.HessianSerializer
